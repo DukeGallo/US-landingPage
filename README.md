@@ -2,10 +2,10 @@
 
 A Landing Page for the UnicornSounds Webpage.
 
-<img src ="/images/first.png">
+<img src ="/UnicornSoundsLandingPage/images/first.png">
 <hr>
-<img src ="/images/second.png">
+<img src ="/UnicornSoundsLandingPage/images/second.png">
 <hr>
-<img src ="/images/third.png">
+<img src ="/UnicornSoundsLandingPage/images/third.png">
 <hr>
-<img src = "/images/forth.png">
+<img src = "/UnicornSoundsLandingPage/images/forth.png">
