@@ -8,4 +8,4 @@ A Landing Page for the UnicornSounds Webpage.
 <hr>
 <img src ="/UnicornSoundsLandingPage/images/third.png">
 <hr>
-<img src = "/UnicornSoundsLandingPage/images/forth.png">
+<img src = "/UnicornSoundsLandingPage/images/fourth.png">
